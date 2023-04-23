@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Шифр Цезаря</string>
+    <string name="addText">Сообщение</string>
+    <string name="ciphr">Шифр</string>
+    <string name="addNumber">Код</string>
+    <string name="clear">Очистить поля</string>
+    <string name="editCode">Задать</string>
+    <string name="buEncrypt">Зашифровать</string>
+    <string name="buDecrypt">Дешифровать</string>
+    <string name="buThemeN">Night</string>
+    <string name="buThemeL">Light</string>
+</resources>
